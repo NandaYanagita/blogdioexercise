@@ -1,0 +1,23 @@
+<html>
+    <head>
+    <title>Blog Da Nanda</title>
+    </head>
+    <body>  
+    <h1> <font color=HotPink> Nanda Yanagita Blogs </font> </h1>
+    <h2><font color=PaleVioletRed> Começando uma nova etapa </font></h2>
+    <p>Iniciando o curso de programação na DIO, que me foi indicado pelo meu cunhado que é desenvolvedor e atuda na área a bastante tempo Daniel Yanagita.</p>
+    <p>Nunca é <font color="Blue">tarde demais</font> para <font color="pink"> aprender</font> algo novo. </p>
+    <blockquote><font color="salmon"> "Devagar eu chego lá." </font></blockquote>
+    <h3><font color="PaleVioletRed"> Aprendendo a Programar </font></h3>
+    <p>Seguindo a sequência que me foi passada pelo Daniel, para melhor obter melhor resultado de aprendizagem.</p>
+    <ol>
+        <ul>Curso 1: <a href="https://web.dio.me/track/formacao-logica-de-programacao" title="Clique aqui e confira" target="_blank"> Lógica de Programação </a></ul>
+        <ul>Curso 2: <a href="https://web.dio.me/play?search=Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20e%20pensamento%20computacional" title="Clique aqui e confira" target="_blank"> Introdução à Programação e Pensamento Computacional </a></ul>
+        <ul>Curso 3: <a href="https://web.dio.me/track/formacao-html-web-developer" title="Clique aqui e confira" target="_blank"> Formação HTML Web Developer </a></ul>
+        <ul>Curso 4: <a href="https://web.dio.me/track/formacao-css-web-developer" title="Clique aqui e confira" target="_blank"> Formação CSS Web Developer </a></ul>
+        <ul>Curso 5: <a href="https://web.dio.me/track/formacao-javascript-developer" title="Clique aqui e confira" target="_blank"> Formação JavaScript Developer </a></ul>
+
+        
+    </ol>
+    </body>
+</html>
