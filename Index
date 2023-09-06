@@ -5,19 +5,40 @@
     <body>  
     <h1> <font color=HotPink> Nanda Yanagita Blogs </font> </h1>
     <h2><font color=PaleVioletRed> Começando uma nova etapa </font></h2>
-    <p>Iniciando o curso de programação na DIO, que me foi indicado pelo meu cunhado que é desenvolvedor e atuda na área a bastante tempo Daniel Yanagita.</p>
-    <p>Nunca é <font color="Blue">tarde demais</font> para <font color="pink"> aprender</font> algo novo. </p>
+    <p>Com o propósito de me ingressar no mercado de trabalho, me foi abordado aprender Programação. Assim poderia futuramente trabalhar HomeOffice e continuar cuidando dos meus filhos pequenos sem perder nada.</p>
+    <p>Nunca é <font color="pink">tarde demais</font> para <font color="pink"> aprender</font> algo novo. </p>
     <blockquote><font color="salmon"> "Devagar eu chego lá." </font></blockquote>
+    <h3><font color="Palevioletred">O que faz um profissional da programação?</font></h3>
+    <p>O que é um programador? O programador é o profissional que escreve códigos de programas a partir de várias linguagens de programação existentes. Com isso, é possível gerar soluções para os problemas ou necessidades de diferentes marcas e empresas.</p>
+    <h3><font color="Palevioletred">Qual a diferença entre TI e programação?</font></h3>
+    <p>A programação em si é uma atividade dentro da área de TI. Existem várias profissões que se baseiam na programação, que é a atividade de desenvolver estruturas de software através do uso de linguagens de programação e configuração avançada. A programação é a criação de ferramentas para o trabalho a partir do zero.</p>
+    <h3><font color="Palevioletred">Como começar a aprender a programar?</font></h3>
+    <p>Comece pela lógica de programação. Programar, independentemente da linguagem utilizada, sempre se baseia em conceitos básicos de lógica. Não pule etapas. Faça um curso. Não desanime.</p>
+    <h3><font color="Palevioletred">É difícil aprender a programar?</font></h3>
+    <p>Em resumo, aprender a programar pode ser desafiador, mas não é impossível. Com dedicação e prática, qualquer pessoa pode aprender a programar.</p>
+    <h3><font color="Palevioletred">Qual a rotina de um programador?</font></h3>
+    <p>Em seu dia a dia de trabalho, uma pessoa programadora é responsável por desenvolver demandas que vão compor um software, aplicativo, website, entre outros produtos digitais.</p>
+    <p>Nessa rotina, podem estar inclusas reuniões de alinhamento, seja com o time ou com clientes, para definir quais tarefas deverão ser realizadas e informar quais demandas estão sendo trabalhadas no momento, além de possíveis impedimentos.</p>
+    <p>Também é parte do trabalho a realização de testes na aplicação, versionamento do código, deploy de ambientes, correção de bugs e validação de layouts, seja com a pessoa responsável pelo design ou com os demais stakeholders.</p>
+    <h3><font color="Palevioletred">Como está o mercado para pessoas da área de programação?</font></h3>
+    <p>O mercado de programação, assim como o de tecnologia, está muito aquecido. Segundo a Associação Brasileira de Startups, existem mais de 5 mil vagas abertas e oportunidades freelancer somente em startups no Brasil. Além disso, a demanda por desenvolvedores deve alcançar 70 mil oportunidades entre 2019 e 2024. Isso reflete a necessidade crescente por funções que envolvem softwares.</p>
     <h3><font color="PaleVioletRed"> Aprendendo a Programar </font></h3>
-    <p>Seguindo a sequência que me foi passada pelo Daniel, para melhor obter melhor resultado de aprendizagem.</p>
+    <p>Iniciando o curso de programação na DIO, que me foi indicado pelo meu cunhado que é desenvolvedor e atuda na área a bastante tempo Daniel Yanagita.</p>
+    <p>Seguindo a sequência que me foi passada para obter melhor resultado de aprendizagem.</p>
     <ol>
         <ul>Curso 1: <a href="https://web.dio.me/track/formacao-logica-de-programacao" title="Clique aqui e confira" target="_blank"> Lógica de Programação </a></ul>
-        <ul>Curso 2: <a href="https://web.dio.me/play?search=Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o%20e%20pensamento%20computacional" title="Clique aqui e confira" target="_blank"> Introdução à Programação e Pensamento Computacional </a></ul>
+        <p>"Desenvolva sua base sólida para se aventurar no mundo da programação com confiança antes de aprender qualquer linguagem"</p>
+        <ul>Curso 2: <a href="https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3" title="Clique aqui e confira" target="_blank"> Introdução à Programação e Pensamento Computacional </a></ul>
+        <p>"Aprenda temas e conceitos que irão te auxiliar no processo de pensamento necessário para sua inserção inicial no mundo da programação, além de executar o seu primeiro Hello World!"</p>
         <ul>Curso 3: <a href="https://web.dio.me/track/formacao-html-web-developer" title="Clique aqui e confira" target="_blank"> Formação HTML Web Developer </a></ul>
+        <p>"Entenda como trabalhar com HTML, a base para criar suas primeiras páginas WEB! Aprenda na prática a como estruturar a marcação da sua página e como funciona cada tag, conheça os elementos semânticos e outras boas práticas na hora de construir sua primeira página."</p>
         <ul>Curso 4: <a href="https://web.dio.me/track/formacao-css-web-developer" title="Clique aqui e confira" target="_blank"> Formação CSS Web Developer </a></ul>
+        <p>"Próximo passo na sua jornada no mundo do Front-end aprendendo a estilizar e turbinar ainda mais suas páginas Web com Cascading Style Sheets, o famoso CSS. Aprenda na prática a como organizar sua folha de estilos, saiba como trabalhar com animações e domine boas práticas para se tornar um profissional ainda mais bem preparado para criar ou replicar qualquer layout rico quando se trata do posicionamento de elementos em tela e estilização."</p>
         <ul>Curso 5: <a href="https://web.dio.me/track/formacao-javascript-developer" title="Clique aqui e confira" target="_blank"> Formação JavaScript Developer </a></ul>
-
-        
+        <p>"Aprenda JavaScript do zero, em uma abordagem de ensino totalmente imersiva e prática. Nesta formação você aprenderá desde os fundamentos desta linguagem de programação até o seu papel essencial na Web atualmente."</p> 
     </ol>
+    <p>E claro, seguir sempre buscando aprender novas ferramentas.</p>
+    <h3><font color="Palevioletred">Conclusão</font></h3>
+    <p>Se você se interessou por este assunto e deseja saber mais sobre o mundo do desenvolvimento, aprenda mais sobre programação com a <a href="https://web.dio.me" title="Clique aqui e confira" target="_blank"> DIO </a>.</p>
     </body>
 </html>
